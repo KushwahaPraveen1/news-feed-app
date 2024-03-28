@@ -1,0 +1,30 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.pillar_name{
+    color: #c70000;
+    padding-top: 12px;
+    font-weight: 700;
+    font-size: 25px;
+    margin: 0 0;
+}
+.web_tittle {
+    font-weight: bold;
+    letter-spacing: -2px;
+}
+.card_body_text{
+    padding-top: 10px;
+    color: #424242;
+    font-size: 16px;
+
+}
+.card_header {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.MuiCard-root {
+    height: 100%;
+}
